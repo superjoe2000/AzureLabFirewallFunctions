@@ -2,5 +2,12 @@
     "azureFunctions.deploySubpath": ".",
     "azureFunctions.projectLanguage": "PowerShell",
     "azureFunctions.projectRuntime": "~4",
-    "debug.internalConsoleOptions": "neverOpen"
+    "debug.internalConsoleOptions": "neverOpen",
+    "github.copilot.enable": {
+        
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }
